@@ -1,4 +1,4 @@
-# macOS Notarized Flask App Template
+# macOS Notarized App Template
 
 A template for building a notarized macOS `.app` and `.pkg` installer from a Python/Flask web application using py2app. The app runs a local web server and opens a browser UI automatically.
 
